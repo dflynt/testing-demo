@@ -18,4 +18,4 @@ git add .
 git commit -m ":shipit: Deploy to GitHub Pages"
 
 # Force push to gh-pages
-git push --force "https://${f91c1e607a98f8e3ea308a223ded2864663055ac}@github.com/tteltrab/testing-demo.git" master:gh-pages > /dev/null 2>&1
+git push --force "https://$f91c1e607a98f8e3ea308a223ded2864663055ac@github.com/tteltrab/testing-demo.git" master:gh-pages > /dev/null 2>&1
